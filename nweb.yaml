@@ -1,0 +1,9 @@
+server:
+    port: 3000
+vendors:
+    js:
+        - "./jquery.js"
+        - "./bootstrap/bootstrap.js"
+    css:
+        - "./bootstrap/bootstrap.css"
+        - "./font-awesome/font-awesome.css"
